@@ -1,5 +1,8 @@
 # IoT Environmental Monitoring System  
-By 23MCC20049 Iqbal Ali Shah and 23MCC20105 Adeeb Haider.
+
+Developed by:  
+- **Iqbal Ali Shah** (23MCC20049)  
+- **Adeeb Haider** (23MCC20105) – [GitHub Profile](https://github.com/AdeebHaider137)  
 
 An IoT-based smart monitoring system using ESP8266, DHT11 (Temp & Humidity), MQ135 (Air Quality), LCD, LEDs, Buzzer, and ThingSpeak for real-time data tracking and alerts.
 
