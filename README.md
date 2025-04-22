@@ -25,3 +25,6 @@ An IoT-based smart monitoring system using ESP8266, DHT11 (Temp & Humidity), MQ1
 <p align="center">
   <img src="finaloutput.jpg" alt="Block Diagram" width="600"/>
 </p>
+<p align="center">
+  <img src="Cloud-status.png" alt="Block Diagram" width="600"/>
+</p>
